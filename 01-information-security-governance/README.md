@@ -1,8 +1,30 @@
+Cybersecurity Governance, Risk & Compliance (GRC) Portfolio
+
+Welcome to my cybersecurity GRC portfolio. This repository documents my hands-on learning and practical projects in information security governance, risk management, compliance, security control assessment, and IT auditing.
+
+My objective is to demonstrate practical GRC skills through documented, realistic training scenarios and structured project deliverables.
+
+Featured Project
+
 Project 01 — Information Security Governance
 
-Project Overview
+Organization: PrairieTrust Healthcare Services (fictional)
+Document: PTHS-ISP-001
+Status: Version 0.1 — Draft, Not Approved
 
-This project demonstrates the development and quality review of an Information Security Policy for PrairieTrust Healthcare Services, a fictional healthcare organization.
+Developed a simulated Information Security Policy covering access management, multifactor authentication, information protection, endpoint security, incident reporting, policy exceptions, compliance monitoring, and policy lifecycle management.
+
+Conducted a simulated quality review, identified policy inconsistencies, and documented corrective actions.
+
+Project documents:
+
+View Information Security Policy (PDF)
+
+View Editable Policy (Word)
+
+View Simulated Finding Register
+
+View Project Overview
 
 Skills Demonstrated
 
@@ -10,20 +32,20 @@ Information security policy development
 
 Joiner–Mover–Leaver (JML) access governance
 
-Multifactor authentication (MFA) requirements
+Multifactor authentication (MFA) governance
 
 Security exception management
 
 Compliance monitoring and remediation verification
 
-Policy lifecycle and revision control
+Policy review and document control
 
-Project Deliverables
+Simulated GRC findings management
 
-Information Security Policy (PTHS-ISP-001)
+Upcoming Projects
 
-Simulated GRC Finding Register
+Future projects will include risk registers, NIST Cybersecurity Framework mapping, control assessments, audit evidence evaluation, and compliance documentation.
 
 Disclaimer
 
-This project was completed as a self-directed cybersecurity GRC training simulation. PrairieTrust Healthcare Services is fictional. No actual organizational approval or implementation is claimed.
+All organizational scenarios and records in this repository are fictional training simulations unless explicitly identified otherwise. These projects do not represent professional employment, actual organizational approval, or implementation of security controls.
