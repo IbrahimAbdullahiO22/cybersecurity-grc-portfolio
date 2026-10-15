@@ -20,7 +20,9 @@ Conducted a simulated quality review, identified policy inconsistencies, and doc
 
 - [Information Security Policy (PDF)](PTHS-ISP-001-v0.1-Draft.pdf)
 - [Information Security Policy (Word)](PTHS-ISP-001-v0.1-Draft.docx)
-- [Simulated Finding Register](simulated-finding-register.md)
+- [View Simulated Finding Register](simulated-finding-register.md)
+
+  
 ## Skills Demonstrated
 
 - Information security policy development
