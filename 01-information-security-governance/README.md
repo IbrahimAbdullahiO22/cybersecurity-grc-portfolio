@@ -16,13 +16,11 @@ Developed a simulated Information Security Policy covering access management, mu
 
 Conducted a simulated quality review, identified policy inconsistencies, and documented corrective actions.
 
-**Project documents:**
+## Project Documents
 
-- [View Information Security Policy (PDF)](01-information-security-governance/PTHS-ISP-001-v0.1-Draft.pdf)
-- [View Editable Policy (Word)](01-information-security-governance/PTHS-ISP-001-v0.1-Draft.docx)
-- [View Simulated Finding Register](01-information-security-governance/simulated-finding-register.md)
-- [View Project Overview](01-information-security-governance/README.md)
-
+- [Information Security Policy (PDF)](PTHS-ISP-001-v0.1-Draft.pdf)
+- [Information Security Policy (Word)](PTHS-ISP-001-v0.1-Draft.docx)
+- [Simulated Finding Register](simulated-finding-register.md)
 ## Skills Demonstrated
 
 - Information security policy development
