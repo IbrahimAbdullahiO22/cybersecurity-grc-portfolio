@@ -16,7 +16,7 @@ I am pursuing graduate degrees in Information Technology and Business Administra
 
 My portfolio emphasizes practical application, professional documentation, evidence-based conclusions, and continuous improvement.
 
-## 12-Month Cybersecurity GRC Academy — Project Roadmap
+## Cybersecurity GRC Academy — Project Roadmap
 
 The Academy consists of 12 major projects covering security governance, risk management, compliance, audit, enterprise GRC software, and cross-industry assessments.
 
