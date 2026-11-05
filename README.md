@@ -27,7 +27,7 @@ The Academy consists of 12 major projects covering security governance, risk man
 | 03 | NIST CSF 2.0 Assessment & Gap Analysis | Completed |
 | 04 | NIST RMF, System Categorization & Security Controls | Completed |
 | 05 | ISO 27001, COBIT, CIS Controls & IT Audit | Completed |
-| 06 | Audit Findings, Remediation & Continuous Monitoring | Planned |
+| 06 | Audit Findings, Remediation & Continuous Monitoring | Completed |
 | 07 | Healthcare, Privacy & Data Protection Compliance | Planned |
 | 08 | SOC 2, SOX ITGC, PCI DSS & Third-Party Risk | Planned |
 | 09 | IAM Governance, Cloud Security & Business Continuity | Planned |
