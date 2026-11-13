@@ -29,7 +29,7 @@ The Academy consists of 12 major projects covering security governance, risk man
 | 05 | ISO 27001, COBIT, CIS Controls & IT Audit | Completed |
 | 06 | Audit Findings, Remediation & Continuous Monitoring | Completed |
 | 07 | Healthcare, Privacy & Data Protection Compliance | Completed |
-| 08 | SOC 2, SOX ITGC, PCI DSS & Third-Party Risk | Planned |
+| 08 | SOC 2, SOX ITGC, PCI DSS & Third-Party Risk | Completed |
 | 09 | IAM Governance, Cloud Security & Business Continuity | Planned |
 | 10 | Enterprise GRC Platforms, Automation & Analytics | Planned |
 | 11 | Multi-Industry Enterprise GRC Simulation | Planned |
