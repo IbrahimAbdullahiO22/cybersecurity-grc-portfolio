@@ -1,50 +1,27 @@
 # Project 10 — Enterprise GRC Platforms, Automation & Analytics
 
-## Project Overview
+**Portfolio type:** Synthetic enterprise GRC simulation  
+**Organization:** PrairieTrust Healthcare Services (fictional)  
+**Assessment date:** November 14, 2026
 
-This project demonstrates simulated enterprise Governance, Risk, and Compliance (GRC) workflows for PrairieTrust Healthcare Services (PTHS), a fictional healthcare organization.
+## Purpose
+Demonstrate an integrated, evidence-driven enterprise GRC workflow across risk registration, issue remediation, vendor and privacy assurance, internal audit, analytics, and CISO reporting.
 
-The project integrates enterprise risk assessment, remediation governance, third-party assurance, internal audit, executive reporting, and analytics.
-
-## Project Objectives
-
-- Assess and document enterprise technology risks.
-- Design RSA Archer risk-register workflows.
-- Model ServiceNow IRM remediation and verification processes.
-- Design OneTrust third-party risk and privacy assessments.
-- Develop AuditBoard-style independent audit testing procedures.
-- Define Excel and Power BI risk reporting metrics.
-- Design Python-based GRC exception detection.
-- Communicate preliminary technology-risk findings to executive leadership.
-
-## Synthetic Case Summary
-
-The scenario includes twelve active former-employee EHR accounts, an overdue critical scheduling-system vulnerability, incomplete vendor due diligence, missing assurance evidence, and an issue marked Closed without verification.
-
-The assessment distinguishes confirmed conditions from unverified assertions and does not assume that an incident or compromise occurred.
-
-## Platforms and Methods
-
-| Platform | Simulated Application |
+## Artifacts
+| File | Demonstrates |
 |---|---|
-| RSA Archer | Enterprise risk registration, ownership, treatment, and residual-risk assessment |
-| ServiceNow IRM | Remediation issues, evidence tracking, escalation, and verified closure |
-| OneTrust | Vendor due diligence, privacy screening, and third-party risk decisions |
-| AuditBoard | Risk-based audit testing, workpapers, and independent assurance |
-| Excel / Power BI | Evidence-based metrics and executive dashboard design |
-| Python | Exception detection, data validation, and reporting controls |
+| `enterprise-risk-remediation-assessment.md` | RSA Archer-style risk assessment and ServiceNow IRM remediation workflow |
+| `vendor-privacy-assessment.md` | OneTrust-style third-party and privacy assessment |
+| `internal-audit-testing-strategy.md` | AuditBoard-style risk-based test plan |
+| `grc-dashboard-design.md` | Excel/Power BI data model, metrics and limitations |
+| `grc_exception_detection.py` | Python data-quality and issue exception detection |
+| `executive-technology-risk-brief.md` | Preliminary CISO executive report |
 
-## Governance Principles
+## Core evidence and constraints
+Twelve former-employee EHR accounts are active; a critical scheduling-server vulnerability is 14 calendar days overdue; a separate High IAM issue is seven days overdue; one IRM issue is marked Closed without verification; MediBridge vendor diligence is incomplete. No actual compromise, misuse, or exploitation is established by the supplied case.
 
-1. Maintain traceability to authoritative evidence.
-2. Separate confirmed facts from management assertions and unknowns.
-3. Do not treat missing evidence as proof that a control failed.
-4. Require appropriate verification before remediation closure.
-5. Preserve management accountability and independent assurance.
-6. Avoid unsupported enterprise-wide metrics or claims of compromise.
+## Platforms
+RSA Archer, ServiceNow IRM, OneTrust, AuditBoard, Excel, Power BI, and Python are represented through **simulated workflows and designs**, not claimed production administration.
 
-## Portfolio Scope and Disclaimer
-
-All organizations, records, cases, and evidence are fictional or synthetic. Workflows are conceptual and simulated; this repository does not claim production administration of the named enterprise platforms.
-
-No real patient information, credentials, confidential employer data, or proprietary platform exports are included.
+## Public portfolio disclaimer
+All names, records, risks and evidence are synthetic. No patient information, employer records, credentials, real platform exports or private academy scores are included. The Python example is a local demonstration, not a production integration.
