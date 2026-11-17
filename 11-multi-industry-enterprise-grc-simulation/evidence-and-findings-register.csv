@@ -1,0 +1,5 @@
+Case ID,Industry,Control domain,Requirement or reference,Observation,Evidence requested,Assessment status,Risk rating,Remediation owner,Closure criteria
+FS-01,Financial services,Governance,GLBA / FFIEC guidance,To be populated from completed lesson,Applicable policy and tested control evidence,Pending evidence review,Not assessed,To be assigned,Verified evidence and approval
+CL-01,Cloud/SaaS,Assurance,SOC 2 / ISO 27001,To be populated from completed lesson,Scoped report and relevant control evidence,Pending evidence review,Not assessed,To be assigned,Verified evidence and approval
+OT-01,Manufacturing/OT,OT security,NIST SP 800-82 / IEC 62443,To be populated from completed lesson,Architecture and operationally safe control evidence,Pending evidence review,Not assessed,To be assigned,Verified evidence and approval
+HC-01,Healthcare,Privacy and security,HIPAA / HITRUST CSF,To be populated from completed lesson,Applicable safeguards and testing evidence,Pending evidence review,Not assessed,To be assigned,Verified evidence and approval
