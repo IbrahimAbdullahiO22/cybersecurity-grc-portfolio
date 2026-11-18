@@ -32,8 +32,8 @@ The Academy consists of 12 major projects covering security governance, risk man
 | 08 | SOC 2, SOX ITGC, PCI DSS & Third-Party Risk | Completed |
 | 09 | IAM Governance, Cloud Security & Business Continuity | Completed |
 | 10 | Enterprise GRC Platforms, Automation & Analytics | Completed |
-| 11 | Multi-Industry Enterprise GRC Simulation | Planned |
-| 12 | Integrated Enterprise GRC Capstone | Planned |
+| 11 | Multi-Industry Enterprise GRC Simulation | Completed |
+| 12 | Integrated Enterprise GRC Capstone | Completed |
 
 Project status describes training progress, not professional client engagement experience. Some project folders may be created in advance of completing their associated assessments.
 
